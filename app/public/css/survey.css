@@ -1,0 +1,62 @@
+.jumbotron {
+    /*background-color: teal;*/
+    background-image: url("../images/header-sunscreen.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+}
+
+h1 {
+    /*font-family: 'Goblin One', cursive;*/
+    font-family: 'Poiret One', cursive;
+    font-size: 900%;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    text-align: center;
+    /*font-family: 'Playfair Display', serif;*/
+}
+
+h3.display-4 {
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 1);
+    text-align: center;
+    font-size: 42px;
+}
+
+
+.card-body#options {
+    text-align: center;
+    font-size: larger;
+}
+
+.modal-header {
+    background-image: url("../images/header-sunscreen.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h4.modal-title {
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+    text-align: center;
+    color: white;
+}
+
+button.close {
+    color: white;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+img#friend-photo {
+    max-width: 60%;
+    max-height: none;
+}
+
+@media (max-width: 868px) {
+    h1 {
+        font-size: 400%;
+    }
+}
