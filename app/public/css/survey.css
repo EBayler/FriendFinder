@@ -1,6 +1,6 @@
 .jumbotron {
     /*background-color: teal;*/
-    background-image: url("../images/header-sunscreen.png");
+    background-image: url("../images/gg.gif");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -61,12 +61,3 @@ img#friend-photo {
     }
 }
 
-#butn {
-    background-color: rgb(155, 30, 179);
-    height: 60px;
-    width: 180px;
-    margin: -20px -50px;
-    position: relative;
-    top: 50%;
-    left: 50%;
-}
