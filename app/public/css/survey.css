@@ -61,3 +61,11 @@ img#friend-photo {
     }
 }
 
+body {
+    background-color: black;
+}
+
+#card-b {
+        padding-top: 50px;
+        padding-bottom: 50px;
+        }
